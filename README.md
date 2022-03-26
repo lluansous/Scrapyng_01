@@ -4,4 +4,4 @@
 (que podem ser estruturadas ou não)**
 
 ### Metódo Utilizado:
-**Scrapyng utilizando PDF FILES.**
+**Scraping utilizando PDF FILES.**
